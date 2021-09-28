@@ -1,0 +1,25 @@
+# Folders
+/journeymap/icon/
+/journeymap/journeymap.log
+/kubejs/exported/
+/local/ftbchunks/data/
+/logs/
+/mods/
+/patchouli_books/
+/resourcepacks/
+/saves/
+/schematics/
+/structurize/
+/toconplanner/
+
+# Files
+BotaniaVars.data
+usercache.json
+usernamecache.json
+
+# GDLauncher
+config.bak.json
+config.json
+/natives/
+
+
