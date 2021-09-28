@@ -1,4 +1,5 @@
 # Folders
+/dumps/
 /journeymap/icon/
 /journeymap/journeymap.log
 /kubejs/exported/
@@ -11,6 +12,7 @@
 /schematics/
 /structurize/
 /tconplanner/
+/woot/
 
 # Files
 BotaniaVars.dat
