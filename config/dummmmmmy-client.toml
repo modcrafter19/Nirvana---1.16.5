@@ -9,6 +9,7 @@
 	#Does dps message update dynamically or will it only appear after each parse? 
 	dynamicDPS = true
 	#Skin used by the dummy
+	#Allowed Values: DEFAULT, ORIGINAL, DUNGEONS, ALTERNATIVE
 	texture = "DEFAULT"
 
 	[visuals.damage_number_colors]
@@ -24,5 +25,5 @@
 		fire = "ff7700"
 		lightning = "fff200"
 		cactus = "048500"
-		true = "910038"
+		true_damage = "910038"
 
