@@ -8,7 +8,7 @@
 	flattenSieveRecipes = false
 	#The amount of times the heavy sieve should roll for compressed entries. For example, a value of 7 means for every compressed gravel you only get the equivalent drops of 7 sifted gravel blocks (2 loss). A value of 9 would therefore mean no loss.
 	#Range: > 1
-	heavySieveDefaultRolls = 7
+	heavySieveDefaultRolls = 9
 
 [baits]
 	#The chance (per second) that a wolf bait will result in a spawn.
