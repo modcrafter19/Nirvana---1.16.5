@@ -24,7 +24,7 @@
   "forge:ingots/bronze": "emendatusenigmatica:bronze_ingot",
   "forge:ingots/electrum": "emendatusenigmatica:electrum_ingot",
   "forge:ingots/silver": "emendatusenigmatica:silver_ingot",
-  "forge:ingots/platinum": "null",
+  "forge:ingots/platinum": "exnihilosequentia:ingot_platinum",
   "forge:ingots/graphite": "bigreactors:graphite_ingot",
   "forge:ingots/uranium": "emendatusenigmatica:uranium_ingot",
   "forge:ingots/aluminum": "emendatusenigmatica:aluminum_ingot",
