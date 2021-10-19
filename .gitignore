@@ -1,6 +1,8 @@
 # Folders
+/backups/
 /crash-reports/
 /dumps/
+/journeymap/data/
 /journeymap/icon/
 /journeymap/journeymap.log
 /kubejs/exported/
